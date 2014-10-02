@@ -1,0 +1,8 @@
+ip a
+1ste is loopback
+2de is NAT
+3e is wrs virtualbox
+
+vagrant reload
+vagrant status
+vagrant destroy -f

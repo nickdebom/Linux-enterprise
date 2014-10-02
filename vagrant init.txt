@@ -1,0 +1,16 @@
+>GitBash
+>mkdir test-vagrant
+>cd C:\Users\Nick\test-vagrant
+>vagrant init matyunin/centos7
+>vagrant up
+>vagrant ssh
+
+nieuwe map maken, noemt ze ansible of whatever
+>cd /C/Users/Nick/Ansible/
+>git clone https://github.com/bertvv/ansible-skeleton.git
+>ls
+>cd ansible-skeleton/
+>ls
+>vagrant up srv001
+
+Voor welke machine, want ge hebt er nu 2
